@@ -1,0 +1,15 @@
+h1 {
+	text-align:center;
+}
+div#navbar {
+	text-align:center;
+}
+p.footer {
+	text-align: right;
+}
+
+p {
+	text-align:center;
+	font-family:times new roman;
+	font-size: 15px;
+}
