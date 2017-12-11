@@ -1,16 +1,39 @@
+body {
+
+	background-image: url("cooking-wallpapers.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	font-family: sans-sarif;
+	font-size: 25px;
+	color: white;
+
+}
+
 h1 {
-	text-align: left;
-	border-style: dashed;
-	border-width: 5px;
+	text-align: center;
+	border-width: 6px;
 	height: 40px;
-	width: 500px;
 	border-color: black;
-	background-color: #c70d08;
-	color: black;
+	background-color: clear;
+	color: red;
+	margin: 20;
+
+}
+p.content{
+	color: white;
+	text-align: center;
+	
 	
 }
-div#navbar {
+h2{
 	text-align: center;
+	margin-top: 100px;
+	border-width: 30px;
+	height: 60px;
+	color: white;
+	background-color: black;
 }
 footer {
 	text-align: right;
@@ -20,135 +43,14 @@ footer {
 	bottom: 0;
 	left: 0;
 }
-
-a.links {
-	border: 1px solid;
-	padding: 10px 10px;
-	margin: 5px;
-	background-color: #c70d08;
-	color: black;
-	border-radius: 25px;
-	text-decoration: none;
-}
-
-a:hover {
-	background-color: #8b0905;
-}
-
-h2{
-	text-align: center;
-	margin-top: 100px;
-}
-p.content {
-	text-align: left;
-	border-style: solid;
-	width: 80%;
-	height: auto;
-	padding: 50px;
-	margin: auto;
-	background-color: white;
-	outline-style: solid;
-	outline-color: white;
-	line-height: 1.5;
-	font-size: 20px;
-}
-
-p.footer {
-	text-align: right;
-}
-body {
-
-	background-image: url("../images/backgroundcolour.jpg");
-	background-repeat: no-repeat;
-	background-position: center;
-	background-size: cover;
-	background-attachment: fixed;
-	font-family: sans-serif;
-
-}
-#picture {
-	text-align: center;
-}
-
-img#lion{
-	width: 40%;
-	min-width: 150px;
-	height: auto;
-}
-
-img {
-	display: inline-block;
-	margin: 2%;
-}
-
-div#comics{
-	text-align: center;
-}
-div#site{
-	text-align: center;
-}
-
-a.docs {
-	background-color: #ffd27f;
-    border: none;
-    color: black;
-    cursor: url(cursor.cur);
-    padding: 20px 100px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    border-radius: 200px;
-    transition-duration: 0.5s;
-    box-shadow: 0 20px #ffa500;
-    min-width: 20%;
-    margin-top: 2%;
-}
-
-a.docs:hover {
-	background-color: white;
-}
-
-a.docs:active {
-	background-color: white;
-	box-shadow: 0 5px #ffae19;
-  	transform: translateY(4px);
-}
-
-article#documents {
+div#navbar {
 	text-align: center;
 }
 
 
-a#changecss {
-	background-color: #ffd27f;
-    border: none;
-    color: black;
-    cursor: url(cursor.cur);
-    padding: 10px 20px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    border-radius: 200px;
-    transition-duration: 0.5s;
-    box-shadow: 0 10px #ffa500;
-    min-width: 20%;
-    margin-top: 2%;
-}
 
-a#changecss:hover {
-	background-color: white;
-}
 
-a#changecss:active {
-	background-color: white;
-	box-shadow: 0 5px #ffae19;
-  	transform: translateY(4px);
-}
 
-div#css {
-	text-align: center;
-}
+
+
+
