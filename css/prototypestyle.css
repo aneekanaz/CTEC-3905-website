@@ -60,6 +60,27 @@ a.links:hover {
 		text-align:center;
 		
 }
+article.complete{
+	text-align: left;
+	width: 500px;
+	margin: 40px;
+	border: solid 5px;
+	margin-left: 20px;
+	border-top-left-radius: 25px;
+}
+article.last{
+	position: relative;
+	text-align: left;
+	width:800px;
+	margin: 50px;;
+	margin-left:500px;
+	border: solid 5px;
+	border-top-right-radius: 25px;
+}
+article.title{
+	text-align:center;
+}
+
 
 /*p#test {
 	background-image: url("cooking-wallpapers.jpg");
