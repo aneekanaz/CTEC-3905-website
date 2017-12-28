@@ -60,7 +60,7 @@ a.links:hover {
 		text-align:center;
 		
 }
-article.complete{
+article.first{
 	text-align: left;
 	width: 500px;
 	margin: 40px;
@@ -68,7 +68,7 @@ article.complete{
 	margin-left: 20px;
 	border-top-left-radius: 25px;
 }
-article.last{
+article.second{
 	position: relative;
 	text-align: left;
 	width:800px;
