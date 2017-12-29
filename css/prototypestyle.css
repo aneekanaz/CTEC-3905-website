@@ -60,29 +60,27 @@ a.links:hover {
 		text-align:center;
 		
 }
+
 article.first{
-	text-align: left;
-	width: 650px;
-	margin: 40px;
-	border: solid 5px;
-	margin-left: 20px;
-	border-top-left-radius: 25px;
-}
-article.second{
-	position: relative;
-	text-align: left;
-	width: 900px;
-	margin: 50px;;
-	margin-left:500px;
+	margin-top: 50px;
 	border: solid 5px;
 	border-top-right-radius: 25px;
+}
+article.second{
+	border: solid 5px;
+	border-bottom-right-radius: 25px;
 }
 article.title{
 	text-align:center;
 }
+
 #breakfastpic{
 	text-align: right;
 	margin-top:20px;
+}
+.container {
+	display:flex;
+	flex-direction: row;
 }
 
 
