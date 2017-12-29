@@ -62,7 +62,7 @@ a.links:hover {
 }
 article.first{
 	text-align: left;
-	width: 500px;
+	width: 650px;
 	margin: 40px;
 	border: solid 5px;
 	margin-left: 20px;
@@ -71,7 +71,7 @@ article.first{
 article.second{
 	position: relative;
 	text-align: left;
-	width:800px;
+	width: 900px;
 	margin: 50px;;
 	margin-left:500px;
 	border: solid 5px;
