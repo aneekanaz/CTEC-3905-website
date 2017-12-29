@@ -1,3 +1,4 @@
+/*below is the code needed to style my pages*/
 body {
 	font-family: arial;
 	font-size: 25px;
@@ -76,7 +77,7 @@ a.links:hover {
 	margin: 0 10px;
 	line-height: 70px;
 }
-
+/*this is what will be used for different media types */
 @media only screen and (min-width: 600px;){
 	.menu {
 		text-align:center;
@@ -131,6 +132,7 @@ article.title{
 	width: 100%
 	
 }
+/*this is where my css will chage styles*/
 a#changecss {
 	background-color: #B22222;
     border: none;
