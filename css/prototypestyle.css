@@ -54,9 +54,7 @@ a.links:hover {
 	font-size: 150%;
 }
 #picture{
-		max-width: 100px;
-		height: auto;
-		margin:30px;
+		margin-top:30px;
 		text-align:center;
 		
 }
@@ -77,23 +75,34 @@ article.title{
 #breakfastpic2{
 	text-align: right;
 	margin-top:20px;
+	
 }
 #breakfastpic1{
 	text-align: left;
 	margin-top:20px;
+	width: 40px;
+	height: auto;
 }
 .container {
 	display:flex;
 	flex-direction: row;
+	text-align: center;
+}
+
+.breakfastpic {
+	margin: 0 60px;
+}
+#piclunch {
+	text-align: center;
+	margin-top: 30px;
+}
+#picdinner {
+	text-align: center;
+	margin-top: 50px;
 }
 
 
 
-/*p#test {
-	background-image: url("cooking-wallpapers.jpg");
-	background-attachment: fixed;
-	background-size: contain;
-}
 
 
 
