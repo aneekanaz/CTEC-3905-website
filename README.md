@@ -15,3 +15,7 @@ Below is an image showing my header
 This is what happens when the user clicks "change style"
 
 ![img](prototype/changecss.PNG)
+
+This is how my sitemap looks so the user can view each page. 
+
+![img](prototype/site.PNG)
