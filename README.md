@@ -28,3 +28,7 @@ However, looking at the image you can see it could have been a little more respo
 
 This is how my testing for my site went when trying a webpage using google chrome.
 ![img](prototype/image1.jpeg)
+
+The image below shows the main erroe I had in majority of my code. This issue would have been easily resolved if I remebered to add text to each section.
+
+![img](prototype/error.PNG)
