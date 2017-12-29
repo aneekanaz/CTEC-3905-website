@@ -68,7 +68,7 @@ a.links:hover {
 	nav#NavBar {
 		flex-direction: row;
 		justify-content: space-between;
-		padding-left: 5%;
+		padding-left: 10%;
 		padding-right: 5%;
 		
 	}
