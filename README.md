@@ -23,7 +23,8 @@ This is how my sitemap looks so the user can view each page.
 Below is how my site will look when used on an IPhone 7. 
 
 ![img](prototype/screen.PNG)
+
 However, looking at the image you can see it could have been a little more responsive. But I am happy that my buttons are far apart enough for the user to see each page. 
 
 This is how my testing for my site went when trying a webpage using google chrome.
-![img](prototype/image1.JPEG)
+![img](prototype/image1.jpeg)
