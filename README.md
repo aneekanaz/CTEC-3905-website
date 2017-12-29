@@ -19,3 +19,7 @@ This is what happens when the user clicks "change style"
 This is how my sitemap looks so the user can view each page. 
 
 ![img](prototype/site.PNG)
+
+Below is how my site will look when used on an IPhone 7. 
+
+![img](prototype/screen.PNG)
