@@ -148,20 +148,14 @@ a#changecss {
     min-width: 20%;
     margin-top: 2%;
 }
-
 a#changecss:hover {
-	background-color: white;
+	background-color: blue;
 }
-
-a#changecss:active {
-	background-color: white;
-	box-shadow: 0 5px #ffae19;
-  	transform: translateY(4px);
-}
-
 div#css {
 	text-align: center;
 }
+
+
 
 
 
