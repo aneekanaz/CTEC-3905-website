@@ -11,3 +11,7 @@ Below is a screenshot of my wireframe CSS.
 Below is an image showing my header
 
 ![img](prototype/header.PNG)
+
+This is what happens when the user clicks "change style"
+
+![img](prototype/changecss.PNG)
