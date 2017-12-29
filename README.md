@@ -6,4 +6,4 @@ below is an image of my wireframe. This gives you a rough example of how the web
 
 Below is a screenshot of my wireframe CSS.
 
-![img](wireframe/wireframecss.PNG)
+![img](wireframe/frame.PNG)
