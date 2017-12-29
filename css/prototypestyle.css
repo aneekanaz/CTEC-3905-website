@@ -105,12 +105,14 @@ article.title{
 }
 #piclunch {
 	text-align: center;
-	margin-top: 30px;
+	margin-top: 20px;
+	width: 100%
 	
 }
 #picdinner {
 	text-align: center;
-	margin-top: 50px;
+	margin-top: 20px;
+	width: 100%
 	
 }
 a#changecss {
