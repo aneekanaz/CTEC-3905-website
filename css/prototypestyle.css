@@ -53,11 +53,15 @@ a.links:hover {
 	color: rgb(255, 128, 0);
 	font-size: 150%;
 }
-#picture{
-		margin-top:30px;
-		text-align:center;
-		
+
+#indexpic {
+	width:100%
 }
+
+
+@media only screen and (min-width: 600px;)
+{}
+	
 
 article.first{
 	margin-top: 50px;
@@ -75,13 +79,16 @@ article.title{
 #breakfastpic2{
 	text-align: right;
 	margin-top:20px;
+	width: 100%
+
 	
 }
 #breakfastpic1{
 	text-align: left;
 	margin-top:20px;
-	width: 40px;
 	height: auto;
+	width: 100%
+	
 }
 .container {
 	display:flex;
@@ -95,10 +102,12 @@ article.title{
 #piclunch {
 	text-align: center;
 	margin-top: 30px;
+	
 }
 #picdinner {
 	text-align: center;
 	margin-top: 50px;
+	
 }
 a#changecss {
 	background-color: #B22222;
