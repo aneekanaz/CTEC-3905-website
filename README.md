@@ -1,2 +1,9 @@
 # CTEC-3905-website
-Final Website 
+
+below is an image of my wireframe. This gives you a rough example of how the website will plan out. 
+
+![img](wireframe/index.PNG)
+
+Below is a screenshot of my wireframe CSS.
+
+![img](wireframe/wireframecss.PNG)
