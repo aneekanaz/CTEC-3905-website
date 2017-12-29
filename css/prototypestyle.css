@@ -74,8 +74,12 @@ article.title{
 	text-align:center;
 }
 
-#breakfastpic{
+#breakfastpic2{
 	text-align: right;
+	margin-top:20px;
+}
+#breakfastpic1{
+	text-align: left;
 	margin-top:20px;
 }
 .container {
