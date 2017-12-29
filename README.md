@@ -7,3 +7,7 @@ below is an image of my wireframe. This gives you a rough example of how the web
 Below is a screenshot of my wireframe CSS.
 
 ![img](wireframe/frame.PNG)
+
+Below is an image showing my header
+
+![img](prototype/header.PNG)
