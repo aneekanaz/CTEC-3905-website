@@ -32,3 +32,7 @@ This is how my testing for my site went when trying a webpage using google chrom
 The image below shows the main erroe I had in majority of my code. This issue would have been easily resolved if I remebered to add text to each section.
 
 ![img](prototype/error.PNG)
+
+Below shows 2 errors in one of my stylesheets.
+
+![img](prototype/errorstyle.PNG)
