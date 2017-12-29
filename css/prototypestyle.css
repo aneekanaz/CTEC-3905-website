@@ -100,7 +100,37 @@ article.title{
 	text-align: center;
 	margin-top: 50px;
 }
+a#changecss {
+	background-color: #B22222;
+    border: none;
+    color: black;
+    cursor: url(cursor.cur);
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 200px;
+    transition-duration: 0.5s;
+    box-shadow: 0 10px #000000;
+    min-width: 20%;
+    margin-top: 2%;
+}
 
+a#changecss:hover {
+	background-color: white;
+}
+
+a#changecss:active {
+	background-color: white;
+	box-shadow: 0 5px #ffae19;
+  	transform: translateY(4px);
+}
+
+div#css {
+	text-align: center;
+}
 
 
 
